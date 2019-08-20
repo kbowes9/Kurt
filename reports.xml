@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<records>
+<report>
+<packets-serviced>10</packets-serviced>
+<client-guid>0ab47f58-2c17-4b8d-9bd1-20ca3b924877</client-guid>
+<packets-requested>7</packets-requested>
+<service-guid>3cc76b74-7d16-4651-9699-34332a56f6e7</service-guid>
+<retries-request>8</retries-request>
+<request-time>2016-06-28 17:05:59 ADT</request-time>
+<client-address>100.244.243.255</client-address>
+<max-hole-size>6</max-hole-size>
+</report>
+<report>
+<packets-serviced>9</packets-serviced>
+<client-guid>c6379614-8ad6-4318-b21f-8f977ce874ec</client-guid>
+<packets-requested>12</packets-requested>
+<service-guid>52073b51-cd51-4438-bd54-3bce3a7c239f</service-guid>
+<retries-request>5</retries-request>
+<request-time>2016-06-29 03:58:24 ADT</request-time>
+<client-address>166.224.30.98</client-address>
+<max-hole-size>14</max-hole-size>
+</report>
+<report>
+<packets-serviced>13</packets-serviced>
+<client-guid>607c9370-5251-4f08-9468-709de19594b1</client-guid>
+<packets-requested>13</packets-requested>
+<service-guid>185ec7fa-2efc-424e-835f-de882857f55e</service-guid>
+<retries-request>5</retries-request>
+<request-time>2016-06-28 21:54:53 ADT</request-time>
+<client-address>138.245.228.58</client-address>
+<max-hole-size>5</max-hole-size>
+</report>
+<report>
+<packets-serviced>17</packets-serviced>
+<client-guid>253462d8-f8c4-41d5-9d0d-56ae360b8138</client-guid>
+<packets-requested>10</packets-requested>
+<service-guid>9e3d54d8-bcea-4bd5-94f5-bd636df152fa</service-guid>
+<retries-request>7</retries-request>
+<request-time>2016-06-28 19:06:50 ADT</request-time>
+<client-address>121.160.149.186</client-address>
+<max-hole-size>14</max-hole-size>
+</report>
+<report>
+<packets-serviced>16</packets-serviced>
+<client-guid>63652f6f-5441-4ad0-a5e7-9c0818e4696b</client-guid>
+<packets-requested>3</packets-requested>
+<service-guid>d224de85-cd41-4f03-bff6-de9815877975</service-guid>
+<retries-request>3</retries-request>
+<request-time>2016-06-28 11:56:14 ADT</request-time>
+<client-address>240.107.225.33</client-address>
+<max-hole-size>6</max-hole-size>
+</report>
+<report>
+<packets-serviced>16</packets-serviced>
+<client-guid>8bf2b921-0ee0-493d-8012-8a4459bfda3e</client-guid>
+<packets-requested>18</packets-requested>
+<service-guid>8151ff61-4777-4187-b719-e750b91281c8</service-guid>
+<retries-request>9</retries-request>
+<request-time>2016-06-28 21:11:51 ADT</request-time>
+<client-address>60.130.118.153</client-address>
+<max-hole-size>11</max-hole-size>
+</report>
+<report>
+<packets-serviced>5</packets-serviced>
+<client-guid>6949c7c0-6852-4ffa-a46f-9a64190e8b78</client-guid>
+<packets-requested>9</packets-requested>
+<service-guid>8de44210-f265-4f16-a94b-8b0eadc0de23</service-guid>
+<retries-request>9</retries-request>
+<request-time>2016-06-29 05:00:53 ADT</request-time>
+<client-address>9.101.131.209</client-address>
+<max-hole-size>15</max-hole-size>
+</report>
+<report>
+<packets-serviced>14</packets-serviced>
+<client-guid>3ca02581-5742-4d1f-a0ab-aeed545c1275</client-guid>
+<packets-requested>16</packets-requested>
+<service-guid>98279a79-c822-45b4-8429-45ce97a336e5</service-guid>
+<retries-request>7</retries-request>
+<request-time>2016-06-29 08:32:26 ADT</request-time>
+<client-address>50.34.94.184</client-address>
+<max-hole-size>8</max-hole-size>
+</report>
+<report>
+<packets-serviced>11</packets-serviced>
+<client-guid>24113397-eb06-4020-bf79-22f576fea3e2</client-guid>
+<packets-requested>16</packets-requested>
+<service-guid>e16b762f-d0a2-4e1f-95a2-2ee9985c6aff</service-guid>
+<retries-request>6</retries-request>
+<request-time>2016-06-28 09:27:47 ADT</request-time>
+<client-address>229.8.97.235</client-address>
+<max-hole-size>7</max-hole-size>
+</report>
+<report>
+<packets-serviced>11</packets-serviced>
+<client-guid>607c9370-5251-4f08-9468-709de19594b1</client-guid>
+<packets-requested>6</packets-requested>
+<service-guid>d224de85-cd41-4f03-bff6-de9815877975</service-guid>
+<retries-request>3</retries-request>
+<request-time>2016-06-29 03:30:17 ADT</request-time>
+<client-address>138.245.228.58</client-address>
+<max-hole-size>14</max-hole-size>
+</report>
+</records>
